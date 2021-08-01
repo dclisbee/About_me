@@ -1,0 +1,34 @@
+body {
+    background-color:#bbe1fa;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-color: #0f4c75;
+    border-width: 5px;
+    width: 15%;
+}
+
+h1{
+    color: #3282b8;
+}
+
+h3{
+    color: #3282b8;
+}
+
+img:hover{
+    height:200px;
+    width:200px;
+}
+/***************class selectors***************/
+.me{
+    height: 150px;
+    width: 150px;
+}
+
+/***************id selectors***************/
+#heading{
+    color: #3282b8;
+}
